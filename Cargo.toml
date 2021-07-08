@@ -2,7 +2,7 @@
 name = "convertnumber"
 version = "0.1.0"
 edition = "2018"
-authors = "Ukpai Ugochi"
+author = "Ukpai Ugochi"
 description = "This is a simple crate to illustrate number conversion from float to integer, I was trying out `impl` and `traits` and thought it was cool to build something from it"
 license = "MIT"
 
